@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Banco de dados
+backend/db/database.sqlite
+
+# Configurações de ambiente
+.env
+*.env.local
+*.env.*.local
+
+# Build e cache
+frontend/build/
+frontend/.next/
+backend/dist/
+backend/out/
+backend/.cache/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Ferramentas de teste
+coverage/
+
+# Dumps de depuração
+*.stackdump
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
