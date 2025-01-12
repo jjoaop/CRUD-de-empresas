@@ -73,7 +73,7 @@ A arquitetura do projeto é dividida em duas partes principais:
 ### 1. Clonar o Repositório
 ```bash
 git clone https://github.com/jjoaop/CRUD-de-empresas.git
-cd gerenciamento-empresas
+cd CRUD-de-empresas
 ```
 
 ### 2. Configuração do Back-end
