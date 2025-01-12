@@ -110,24 +110,4 @@ npm start                  # Inicia o servidor de desenvolvimento na porta 3000
 
 ---
 
-## Melhorias Futuras
-- Implementar autenticação de usuários.
-- Criar filtros avançados para busca (por CNPJ, endereço, etc.).
-- Exportação de dados em formatos como CSV ou PDF.
-- Deploy do projeto para torná-lo acessível online.
-
----
-
-## Screenshots
-
-### 1. Página Principal
-- Exibe o formulário para criação de empresas e a lista paginada de empresas.
-![Página Principal](https://via.placeholder.com/800x400.png?text=Exemplo+de+P%C3%A1gina+Principal)
-
-### 2. Funcionalidade de Busca
-- Permite buscar empresas pelo nome.
-![Busca de Empresas](https://via.placeholder.com/800x400.png?text=Exemplo+de+Busca+de+Empresas)
-
----
-
 
